@@ -8,6 +8,9 @@ git init - Pra que serve? Ele inicializa um repositório Git Vazio
  git add "coloque o nome do arquivo completo" - Pra que Serve? Ele envia o arquivo pra area de "Staging"
  -
  -
+git add . - Pra que serve? Quando colocamos o ponto final, ele envia TODOS os arquivos pra area de "Staging"
+ -
+ -
  git status - Pra que serve? Mostra o Status do Git
     -"Changes to be commited" - Mudanças para serem "commitadas"
     -new file: (Precisa estar verde, sinalizando que o arquivo está correto)
@@ -25,3 +28,11 @@ git remote add origin https://github.com/Pivozo/Projeto-Git.git - Pra que serve?
 -
 -
 git push -u origin main - Pra que serve? Faz o "Pull" do arquivo para o repositório no GitHub
+    O -u só funciona uma vez, então não vai funcionar denovo
+-
+-
+git push origin main - Pra que serve? Faz o pull
+-
+-
+clear - Pra que serve? Limpa a janela do GitBash
+
