@@ -8,4 +8,10 @@ Vou tentar criar uma página para exemplificar o fluxo de trabalho do Git
 -
 -
 -
-![Comandos do git.md](Comandos do Git.md)
+PARA AJUDAR NO APRENDIZADO:
+-
+-
+[Comandos do git](Comandos-do-git.md)
+-
+-
+[Dicionario do git](Dicionario-Git.md)
