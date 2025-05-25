@@ -15,3 +15,6 @@ PARA AJUDAR NO APRENDIZADO:
 -
 -
 [Dicionario do git](Dicionario-Git.md)
+-
+-
+[Fluxo de Trabalho com Git](fluxo-git.md)

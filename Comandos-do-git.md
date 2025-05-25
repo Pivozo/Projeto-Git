@@ -35,4 +35,24 @@ git push origin main - Pra que serve? Faz o pull
 -
 -
 clear - Pra que serve? Limpa a janela do GitBash
-
+-
+-
+git checkout -b "nome da nova branch" - Pra que serve? Cria uma nova "branch"
+-
+-
+git merge "nome da nova branch" - Pra que serve? Faz o "merge" em todas as branchs
+-
+-
+git clone "link do repositório no git.git" - Pra que serve? Clona o repositório na sua máquina
+-
+-
+cd "nome da pasta" - Pra que serve? Literalmente, entra na pasta desejada
+-
+-
+git pull - Pra que serve? Faz o "Pull" de todas as atualizações e commits do repositório
+-
+-
+git config --global user.name "Nome do Usuário" - Pra que serve? Criar o nome do usuario
+-
+-
+git config --global user.email "seuemail@exemplo.com.br" - Pra que serve? Configura o email do usuario
